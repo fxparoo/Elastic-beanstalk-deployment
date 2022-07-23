@@ -34,7 +34,7 @@ Follow the process described in the course to `eb init` a new application and `e
 ## My Elastic beanstalk endpoint
 http://image-filter-starter-code-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/premium-vector/turtle-with-pixel-art-style_475147-486.jpg?w=740
 
-## Stand Out (Optional)
+### Stand Out (Optional)
 
 ### Refactor the course RESTapi
 
